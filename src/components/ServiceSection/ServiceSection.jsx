@@ -36,16 +36,16 @@ const ServiceSection = () => {
                 className="mySwiper"
               >
                 {[
-                  "/services/s1.jpg",
-                  "/services/s2.jpg",
-                  "/services/s3.jpg",
-                  "/services/s4.jpg",
-                  "/services/s5.jpg",
-                  "/services/s6.jpg",
-                  "/services/s7.jpg",
-                  "/services/s8.jpg",
-                  "/services/s9.jpg",
-                  "/services/s10.jpg",
+                  "/services/n1.jpg",
+                  "/services/n2.jpg",
+                  "/services/n3.jpg",
+                  // "/services/s4.jpg",
+                  // "/services/s5.jpg",
+                  // "/services/s6.jpg",
+                  // "/services/s7.jpg",
+                  // "/services/s8.jpg",
+                  // "/services/s9.jpg",
+                  // "/services/s10.jpg",
                 ].map((item, index) => (
                   <SwiperSlide key={index}>
                     <img src={item} height="800px" width="100%" />

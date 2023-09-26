@@ -81,7 +81,7 @@ const HeroSection = () => {
             fontSize: { xs: "30px", md: "40px" },
           }}
         >
-          عامل راحت بنگالی
+          عامل قاسم علی شاہ
         </Typography>
         <Typography
           mt={3}

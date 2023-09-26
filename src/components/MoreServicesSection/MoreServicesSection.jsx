@@ -38,7 +38,7 @@ const MoreServicesSection = () => {
               <Box>
                 <Box
                   component="img"
-                  src="/services/s1.jpg"
+                  src="/services/change.jpg"
                   alt="service"
                   height={{ xs: 600, md: 600 }}
                   width={{ xs: "100%", md: 500 }}
@@ -55,7 +55,7 @@ const MoreServicesSection = () => {
                     fontFamily: "bold",
                   }}
                 >
-                  عامل راحت بنگالی
+                 عامل قاسم علی شاہ
                 </Typography>
                 <Typography
                   ml={10}

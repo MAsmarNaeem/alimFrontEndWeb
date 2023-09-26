@@ -20,7 +20,7 @@ const Footer = () => {
     {
       // icon: LocalPhoneIcon,
       title: "Wattsapp Number",
-      content: "03404252585",
+      content: "03277906133",
     },
   ];
   const siteData = [
@@ -47,7 +47,7 @@ const Footer = () => {
       <Button
         variant="text"
         size="small"
-        href="https://api.whatsapp.com/send?phone=03404252585"
+        href="https://api.whatsapp.com/send?phone=923277906133"
         sx={{ color: "#616161" }}
       >
         <WhatsAppIcon />
@@ -98,7 +98,7 @@ const Footer = () => {
                   fontWeight: 700,
                 }}
               >
-                عامل راحت بنگالی
+                عامل قاسم علی شاہ
               </Typography>
               <Typography
                 mt={3}
